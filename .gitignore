@@ -172,3 +172,7 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Build directory and symlink
+Perple_X_*
+Perple_X

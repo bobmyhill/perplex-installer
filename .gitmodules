@@ -1,0 +1,3 @@
+[submodule "external/Perple_X"]
+	path = external/Perple_X
+	url = https://github.com/jadconnolly/Perple_X
