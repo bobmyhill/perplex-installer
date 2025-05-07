@@ -1,2 +1,2 @@
-# perplexdriver
-A driver to create and run PerpleX to create P-T lookup tables
+# perplex-installer
+A Perple_X installer
